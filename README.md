@@ -1,6 +1,6 @@
 # SeniorResearchProject
  
-##**Morality in Motion**
+## **Morality in Motion**
 
 The main goal of this project will be to develop a simulation that tests the moral
 choices that people would prefer to make in *trolley scenarios* when it comes
